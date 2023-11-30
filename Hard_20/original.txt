@@ -1,0 +1,5 @@
+/* website: cppstudio.com, C++ programming
+section help write a program
+C++ programmers forum
+source code of C++ programs
+a guide for beginner C++ programmers */
